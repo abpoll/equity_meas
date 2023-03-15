@@ -14,15 +14,15 @@ equity_use_how,"If not, how is equity used"
 drop_equity_use_not_fair,Dropped because equity isn't meant to mean fairness
 drop_not_quant,Dropped because not quantitative assessment
 equity_measured,Is equity measured
-equity_measure_flood,Is equity measurement related to flood risk management or adaptation
-equity_defined,"Equity, or similar concept, explicitly defined in manuscript"
-equity_definition,"Definition of equity, or similar concept, in manuscript (explicit if defined, implicit if gestured)"
-equity_defined_cat,"Is gender justice or equity (5), climate justice (4), distributive justice (3), environmental justice/social justice (2), inequality (1), or none of the above (0) the primary concept of fairness. When equity is not defined, it's always 0 in this column"
-,
-,
-,
-,
-,
+equity_measure_flood,Is equity measurement related to flood risk management
+equity_defined,"Equity, or similar concept, defined in manuscript"
+equity_definition,"Definition of equity, or similar concept, in manuscript (explicit if defined, best guess if implicit)"
+equity_defined_cat,"Is gender justice or equity (5), climate justice (4), distributive justice (3), environmental justice/social justice (2), inequality (1), or unclear (0) the explicit, primary concept of fairness. When equity is not defined, it's always 0 in this column"
+equity_in_title,"Equity, or similar concept, mentioned in title"
+equity_in_abstract,"Equity, or similar concept, mentioned in abstract (or highlights)"
+equity_in_methods,"Equity, or similar concept, mentioned in methods"
+equity_in_results,"Equity, or similar concept, mentioned in results"
+equity_in_remainder,"Equity, or similar concept, mentioned in rest of paper"
 ,
 ,
 ,
