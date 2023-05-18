@@ -20,6 +20,8 @@ Check that conda is installed on your system
 1. Clone the repository into a local project directory
 2. In your local project directory, run `conda env create -f environment.yml`
 3. When the environment is created, you can launch a Jupyter Notebook and open src/EquityReview.ipynb
+    * This step assumes some experience with using ipykernel to use a specific conda environment in a Jupyter Notebook. If you are new to Jupyter Notebooks and/or conda, please see: https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments 
+
 
 You can run all cells in the Jupyter Notebook and check the Supplementary Information if you need assistance mapping figures or summary statistics to figures or analysis reported in the manuscript. 
 
