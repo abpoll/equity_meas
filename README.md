@@ -23,6 +23,6 @@ Check that conda is installed on your system
     * This step assumes some experience with using ipykernel to use a specific conda environment in a Jupyter Notebook. If you are new to Jupyter Notebooks and/or conda, please see: https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments 
 
 
-You can run all cells in the Jupyter Notebook and check the Supplementary Information if you need assistance mapping figures or summary statistics to figures or analysis reported in the manuscript. 
+You can run all cells in the Jupyter Notebook. Figures are generated twice - once with readable font size, and once with very small labels. The purpose of this is to manually arrange the figures with legible labels, and then repeat the visual apperance of that plot with the "invisible" labels. This latter plot is downloaded as a .png and edited in Keynote to re-add labels. The built-in function for producing the parallel categories plots is hard to optimize for labels and arrangement of bars and this process was easier to customize. 
 
 Please contact Adam Pollack at adam.b.pollack@dartmouth.edu if you have any issues following these steps. 
