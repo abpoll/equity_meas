@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/594736106.svg)](https://zenodo.org/badge/latestdoi/594736106)
+
 # Equity Measurements 
 ## Overview
 This repository includes all data and code to reproduce the data analysis and figures from Pollack et al (2023), "Designing equity indicators to support flood-risk management."
