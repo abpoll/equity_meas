@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/594736106.svg)](https://zenodo.org/badge/latestdoi/594736106)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8139215.svg)](https://doi.org/10.5281/zenodo.8139215)
 
 # Equity Measurements 
 ## Overview
